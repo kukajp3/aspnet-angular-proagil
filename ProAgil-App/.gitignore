@@ -1,8 +1,5 @@
 # See http://help.github.com/ignore-files/ for more about ignoring files.
 
-bin
-obj
-
 # compiled output
 /dist
 /tmp
@@ -27,7 +24,6 @@ speed-measure-plugin*.json
 *.sublime-workspace
 
 # IDE - VSCode
-.vs
 .vscode/*
 !.vscode/settings.json
 !.vscode/tasks.json
